@@ -1,13 +1,13 @@
-# 📊 TASK 7: Basic Sales Summary from SQLite using Python
+# TASK 7: Basic Sales Summary from SQLite using Python
 
-## 🎯 Objective
+## Objective
 Use SQL inside Python to pull simple sales information from a tiny SQLite database and display the results using print statements and a bar chart.
 
 ---
 
-## 📂 Deliverables
+## Deliverables
 
-✅ A Python script (`.py`) or Jupyter Notebook (`.ipynb`) that:
+ A Python script (`.py`) or Jupyter Notebook (`.ipynb`) that:
 
 - Connects to a local SQLite database file `sales_data.db`
 - Runs one or two SQL queries to:
@@ -19,7 +19,7 @@ Use SQL inside Python to pull simple sales information from a tiny SQLite databa
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python 3.x
 - SQLite (via Python’s built-in `sqlite3`)
@@ -29,7 +29,7 @@ Use SQL inside Python to pull simple sales information from a tiny SQLite databa
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 A simple SQLite database named `sales_data.db` with one table:
 
@@ -43,11 +43,11 @@ A simple SQLite database named `sales_data.db` with one table:
 | unit_price    | REAL      |
 | date          | TEXT      |
 
-> ✅ You can create this from a CSV file using a Python script.
+>  You can create this from a CSV file using a Python script.
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 1. Make sure you have all files:
    - `sales_data.csv`
